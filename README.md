@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏻
 
 I'm a software engineer at Waymo focusing on performance, particularly accelerators (e.g. GPUs).
 
